@@ -1,0 +1,6 @@
+node_modules
+.idea
+.env*.local
+cypress/videos
+cypress/screenshots
+.nyc_output
